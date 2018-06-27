@@ -1,7 +1,7 @@
 # Data Science &amp; AI Bootcamp
 ## Beginners Class Curriculum
 
-**Day 1.**
+## Day 1:
 
 ### 1. Introductions
 
@@ -32,7 +32,7 @@ Objective: Demystify Algorithms
 
 Simple Coding Exercises to further demonstrate this skills
 
-**Day 2:**
+## Day 2:
 
 ### 6. Introduction to Data Concepts Via Python
 
@@ -54,7 +54,7 @@ Object Oriented Programming
 
        d.   List of Topics Based on Perceived areas of most difficult Implementation.
 
-Day 3:
+## Day 3:
 
 ### 9.  Exploratory Data Analysis
 
@@ -76,7 +76,7 @@ C.   Visualization using Matplotlib, Seaborn and Pandas Built in Data Viz
       Ii. Multiplots
       Iii. Heat Maps e.t.c
 
-**Day ⅘**
+## Day ⅘:
 
 Project Work and Presentation
 
@@ -88,4 +88,3 @@ Will be Important at this point to spend some time with the final presenter to a
 
 1. Instructional Materials:
 2. Resources:
-2
