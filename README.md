@@ -5,17 +5,15 @@
 
 ### 1. Introductions
 
-Objective: Team Building. Enables Instructor later pair students with strong skills with very early beginners
+- Objective: Team Building. Enables Instructor later pair students with strong skills with very early beginners
 
-Tasks: Each person to talk about themselves and more importantly where the are in technology/Data science
+- Tasks: Each person to talk about themselves and more importantly where the are in technology/Data science
 
 ### 2.   Discuss Breakthrough AI products in Health and spaces they are interested in
-
-Tasks: Get candidates to name AI powered products
+- Tasks: Get candidates to name AI powered products
 
 ### 3.   Understanding Coding and Algorithms
-
-Objective: Demystify Algorithms
+- Objective: Demystify Algorithms
 
 **Tasks:** Write an algorithm for completing a task in their current field of endeavor. E.g Someone with an Agric background can write an algorithm(steps) for harvesting.
 
@@ -29,20 +27,15 @@ Objective: Demystify Algorithms
 6. Dictionaries
 
 ### 5. Homework
-
-Simple Coding Exercises to further demonstrate this skills
+- Simple Coding Exercises to further demonstrate this skills
 
 ## Day 2:
 
 ### 6. Introduction to Data Concepts Via Python
-
-Types / Scale  of Data
-
-File handling
-
-Functions
-
-Object Oriented Programming
+- Types / Scale  of Data
+- File handling
+- Functions
+- Object Oriented Programming
 
 ### 7.   Introduction to Data Analysis
 
@@ -50,9 +43,8 @@ Object Oriented Programming
 2. Introduction to libraries and how to use them
 3. File handling (revisited)
 
-###8.   Supervised Class Assignments and Take Home Assignments
-
-       d.   List of Topics Based on Perceived areas of most difficult Implementation.
+### 8.   Supervised Class Assignments and Take Home Assignments
+       d. List of Topics Based on Perceived areas of most difficult Implementation.
 
 ## Day 3:
 
